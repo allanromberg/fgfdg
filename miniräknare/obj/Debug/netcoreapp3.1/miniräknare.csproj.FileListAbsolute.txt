@@ -1,0 +1,13 @@
+C:\Users\annasa\source\repos\miniräknare\miniräknare\bin\Debug\netcoreapp3.1\miniräknare.exe
+C:\Users\annasa\source\repos\miniräknare\miniräknare\bin\Debug\netcoreapp3.1\miniräknare.deps.json
+C:\Users\annasa\source\repos\miniräknare\miniräknare\bin\Debug\netcoreapp3.1\miniräknare.runtimeconfig.json
+C:\Users\annasa\source\repos\miniräknare\miniräknare\bin\Debug\netcoreapp3.1\miniräknare.runtimeconfig.dev.json
+C:\Users\annasa\source\repos\miniräknare\miniräknare\bin\Debug\netcoreapp3.1\miniräknare.dll
+C:\Users\annasa\source\repos\miniräknare\miniräknare\bin\Debug\netcoreapp3.1\miniräknare.pdb
+C:\Users\annasa\source\repos\miniräknare\miniräknare\obj\Debug\netcoreapp3.1\miniräknare.AssemblyInfoInputs.cache
+C:\Users\annasa\source\repos\miniräknare\miniräknare\obj\Debug\netcoreapp3.1\miniräknare.AssemblyInfo.cs
+C:\Users\annasa\source\repos\miniräknare\miniräknare\obj\Debug\netcoreapp3.1\miniräknare.csproj.CoreCompileInputs.cache
+C:\Users\annasa\source\repos\miniräknare\miniräknare\obj\Debug\netcoreapp3.1\miniräknare.dll
+C:\Users\annasa\source\repos\miniräknare\miniräknare\obj\Debug\netcoreapp3.1\miniräknare.pdb
+C:\Users\annasa\source\repos\miniräknare\miniräknare\obj\Debug\netcoreapp3.1\miniräknare.genruntimeconfig.cache
+C:\Users\annasa\source\repos\miniräknare\miniräknare\obj\Debug\netcoreapp3.1\miniräknare.csprojAssemblyReference.cache
